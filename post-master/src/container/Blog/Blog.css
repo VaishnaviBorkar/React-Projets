@@ -1,0 +1,15 @@
+.posts{
+    display:flex;
+    flex-flow: row wrap;
+    /* height:100px; */
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    
+}
+.heading{
+    color:blue;
+    margin:auto;
+    text-align: center;
+    display:inline-block;
+}
